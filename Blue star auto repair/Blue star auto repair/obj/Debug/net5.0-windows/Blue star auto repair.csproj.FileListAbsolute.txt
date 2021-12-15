@@ -1,0 +1,8 @@
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.csproj.AssemblyReference.cache
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue_star_auto_repair.Form1.resources
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.csproj.GenerateResource.cache
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.GeneratedMSBuildEditorConfig.editorconfig
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.AssemblyInfoInputs.cache
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.AssemblyInfo.cs
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue star auto repair.csproj.CoreCompileInputs.cache
+F:\Top up year\Programming\Assingment\Coding\Blue star auto repair\Blue star auto repair\obj\Debug\net5.0-windows\Blue_star_auto_repair.Properties.Resources.resources
